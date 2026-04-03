@@ -148,6 +148,7 @@ function Home() {
               
               {/* Image Container */}
               <div className="relative">
+                {/* vhhnjgh */}
                 <img 
                   src={'/assets/gouri-image.jpg'} 
                   alt="Gouri Krishna VK" 
